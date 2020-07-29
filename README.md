@@ -29,19 +29,16 @@
 
 
 
-- 🔭 I’m currently working on [Frontier Wallet](https://frontierwallet.com).
-- 🌱 I’m currently learning Swift.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🔭 I’m currently working at [Indihood](https://www.indihood.com).
+- 🌱 I’m currently learning Go and Pytorch.
+- 💬 Ask me about Deep Learning or any Data Science related stuff
+- 📫 How to reach me: [Linkedin - @sayarbanerjee](https://in.linkedin.com/in/sayarbanerjee)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I love doing impressions. Last I checked, I can do over 100 impressions of celebrities/characters.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Linkedin: sayarbanerjee](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayarbanerjee/)](https://www.linkedin.com/in/sayarbanerjee/)
+[![GitHub sayar1106](https://img.shields.io/github/followers/sayar1106?label=follow&style=social)](https://github.com/sayar1106)
+[![website](https://img.shields.io/badge/PortfolioWebsite-sayar1106.github.io-2648ff?style=flat-square&logo=google-chrome)](https://sayar1106.github.io/)
 
 
 **Languages and Tools:**  

@@ -26,7 +26,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love doing impressions. Last I checked, I can do over 100 impressions of celebrities/characters.
 
-[![Linkedin: sayarbanerjee](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayarbanerjee/)](https://www.linkedin.com/in/sayarbanerjee/)
+[![Linkedin: sayarbanerjee](https://img.shields.io/badge/-sayar1106-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayarbanerjee/)](https://www.linkedin.com/in/sayarbanerjee/)
 [![GitHub sayar1106](https://img.shields.io/github/followers/sayar1106?label=follow&style=social)](https://github.com/sayar1106)
 [![website](https://img.shields.io/badge/PortfolioWebsite-sayar1106.github.io-2648ff?style=flat-square&logo=google-chrome)](https://sayar1106.github.io/)
 

@@ -1,4 +1,4 @@
-## Hola, I'm [Sayar!](https://sayar1106@github.io) 👋
+## Hello there, I'm [Sayar!](https://sayar1106@github.io) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayar1106n&label=Views&color=blue&style=plastic" alt="sayar1106" /> </p>
 

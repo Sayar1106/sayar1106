@@ -54,7 +54,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayar1106&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayar1106&show_icons=true&theme=dracula&line_height=27" alt="Sayar's github stats"/>

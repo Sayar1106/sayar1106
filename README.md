@@ -1,6 +1,6 @@
 ## Hello there, I'm [Sayar!](https://sayar1106@github.io) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayar1106n&label=Views&color=blue&style=plastic" alt="sayar1106" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayar1106n&label=Views&color=blue&style=flat" alt="sayar1106" /> </p>
 
 <a href="https://linkedin.com/in/sayarbanerjee">
   <img align="left" alt="Sayar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

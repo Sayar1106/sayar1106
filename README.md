@@ -19,9 +19,9 @@
 
 
 
-- 🔭 I’m currently working at [Indihood](https://www.indihood.com).
-- 🌱 I’m currently learning Go and Pytorch.
-- 💬 Ask me about Deep Learning or any Data Science related stuff
+- 🔭 I’m currently studying @ [UC Davis](https://gsm.ucdavis.edu/master-science-business-analytics-msba) to obtain a Master's in Business Analytics.
+- 🌱 I’m currently learning AWS and Gurobi
+- 💬 Ask me about Deep Learning, Data Science, Causal Inference, and Supply Chain Optimization
 - 📫 How to reach me: [Linkedin - @sayarbanerjee](https://in.linkedin.com/in/sayarbanerjee)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love doing impressions. Last I checked, I can do over 100 impressions of celebrities/characters.

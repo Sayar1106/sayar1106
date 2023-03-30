@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning AWS and Gurobi
 - 💬 Ask me about Deep Learning, Data Science, Causal Inference, and Supply Chain Optimization
 - 📫 How to reach me: [Linkedin - @sayarbanerjee](https://in.linkedin.com/in/sayarbanerjee)
+- ✍🏽 Check out my articles on [Medium](https://medium.com/@sayarbanerjee)!
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love doing impressions. Last I checked, I can do over 100 impressions of celebrities/characters.
 

@@ -1,4 +1,4 @@
-## Hello there, I'm [Sayar!](https://sayar1106@github.io) 👋
+## Hello there, I'm Sayar! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayar1106n&label=Views&color=blue&style=flat" alt="sayar1106" /> </p>
 
@@ -7,9 +7,6 @@
 </a>
 <a href="https://github.com/Sayar1106">
   <img align="left" alt="Sayar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/main_sayar_toh_nahin/">
-  <img align="left" alt="Sayar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@sayarbanerjee">
   <img align="left" alt="Sayar's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -28,7 +25,7 @@
 
 [![Linkedin: sayarbanerjee](https://img.shields.io/badge/-sayarbanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayarbanerjee/)](https://www.linkedin.com/in/sayarbanerjee/)
 [![GitHub sayar1106](https://img.shields.io/github/followers/sayar1106?label=follow&style=social)](https://github.com/sayar1106)
-[![website](https://img.shields.io/badge/PortfolioWebsite-sayar1106.github.io-2648ff?style=flat-square&logo=google-chrome)](https://sayar1106.github.io/)
+
 
 
 **Languages and Tools:**  

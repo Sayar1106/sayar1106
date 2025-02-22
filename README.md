@@ -16,8 +16,8 @@
 
 
 
-- 🔭 I’m currently studying @ [UC Davis](https://gsm.ucdavis.edu/master-science-business-analytics-msba) to obtain a Master's in Business Analytics.
-- 🌱 I’m currently learning AWS and Gurobi
+- 🔭 I’m currently a Data Scientist @ [Starbucks]
+- 🌱 I’m currently learning DataBricks.
 - 💬 Ask me about Deep Learning, Data Science, Causal Inference, and Supply Chain Optimization
 - 📫 How to reach me: [Linkedin - @sayarbanerjee](https://in.linkedin.com/in/sayarbanerjee)
 - ✍🏽 Check out my articles on [Medium](https://medium.com/@sayarbanerjee)!
